@@ -1,4 +1,4 @@
-height_over_sea_level	fall	net	fall	flow
+height_over_sea_level	fall	net_fall	flow	power
 624.00	89.160	89.765	3.500	2512.85
 628.00	93.160	93.765	3.500	2583.79
 602.00	67.840	66.415	6.500	3748.77
